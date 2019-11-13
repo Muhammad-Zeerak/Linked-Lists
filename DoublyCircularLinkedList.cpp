@@ -2,7 +2,7 @@
 
 /* This .cpp file contains the definition of Doubly Circular Linked List
 We have made this class generic by using 'template' keyword
-having 'X' as a placeholder for the datatype */
+having 'X' as a placeholder for the datatype which is template */
 
 #include <iostream>
 #include "List.cpp"
